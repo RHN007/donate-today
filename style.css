@@ -19,21 +19,29 @@ header {
 }
 
 .header-content{
-    padding-top:30% ;
+    padding-top:10% ;
     
   
 }
-header h1,p {
+header h1 {
     color: floralwhite;
     text-align: center;
-    
+    font-weight: 700;
+    font-size: 65px;   
 }
-
+p{
+font-weight: 400;
+font-size: 18px;
+color: floralwhite;
+text-align: center;
+}
 header button {
     background-color: #FF5959;
     color: floralwhite;
     width: 160px;
     height: 56px;
+    font-weight: 600;
+    font-size: 20px;
     border-radius: 5px;
     padding: 16px 12px ;
     text-align: center;
